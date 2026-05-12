@@ -20,5 +20,3 @@ A local conversational AI assistant built using Faster-Whisper, Ollama, and Koko
 ## Pipeline
 Mic → Whisper → LLM → Kokoro Voice Output
 
-## Purpose
-Built as part of an AI engineering internship assignment focused on low-latency conversational AI systems.
